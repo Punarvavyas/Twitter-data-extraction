@@ -1,0 +1,8 @@
+Canada --> 1384
+graduate --> 12
+education --> 23
+university --> 419
+faculty --> 43
+Halifax --> 904
+Dalhousie --> 143
+expensive --> 2
